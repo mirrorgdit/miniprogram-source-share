@@ -17,15 +17,12 @@ QQ：941475895，可联系获取具体源码 ~
 
 ↓ 图片加载不出来，可以Star后clone项目，查看`README.md` ~
 
-## 在线体验
-
-![二维码](http://img.i7xy.cn/20210123195925.jpg)
 
 ## 源码相关整理截图
 
-![image](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/1.png)
-![image](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/2.png)
-![image](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/3.png)
+![image](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/IMG/1.png)
+![image](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/IMG/2.png)
+![image](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/IMG/3.png)
 
 ## 收费服务
 
@@ -33,5 +30,5 @@ QQ：941475895，可联系获取具体源码 ~
 
 ### 请作者喝咖啡
 
-![微信扫码赞赏](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/share.jpg)
+![微信扫码赞赏](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/IMG/share.jpg)
 
