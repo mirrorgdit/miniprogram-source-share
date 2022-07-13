@@ -33,5 +33,5 @@ QQ：941475895，可联系获取具体源码 ~
 
 ### 请作者喝咖啡
 
-![微信扫码赞赏](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/3.png)
+![微信扫码赞赏](https://github.com/mirrorgdit/miniprogram-source-share/blob/main/share.jpg)
 
